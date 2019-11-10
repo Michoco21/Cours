@@ -58,3 +58,32 @@
       <li>Appuyez sur L ("low") pour amener le curseur en bas de l'écran.</li>
     </ul>
   </div>
+
+  <div class="ligne2">
+    <h2>Pagination et défilement</h2>
+    <h3>Défilement d'une page-écran</h3>
+    <p>Pour faire défiler une page-écran vers le bas, appuyez sur Ctrl-F ("Forward"). (Maintenez la touche Control enfoncée et appuyez sur la touche F.) Le curseur se positionne dans le coin supérieur gauche du nouvel écran.</p>
+
+    <h3>Défilement d'un demi-écran vers l'avant</h3>
+    <p>Pour faire défiler un demi-écran vers le bas, appuyez sur Ctrl-D ("Down").</p>
+
+    <h3>Défilement d'un écran vers l'arrière</h3>
+    <p>Pour faire défiler en arrière (vers le haut) une page-écran, appuyez sur Ctrl-B.</p>
+
+    <h3>Défilement d'un demi-écran vers l'arrière</h3>
+    <p>Pour faire défiler en arrière un demi-écran, appuyez sur Ctrl-U.</p>
+  </div>
+
+  <div class="ligne3">
+    <h2>Insertion de texte</h2>
+    <h3>Ajout</h3>
+    <ul>
+      <li>La commande a (ajout) permet d'insérer du texte à la droite du curseur. Positionnez le curseur sur une ligne, tapez a, puis le texte à ajouter. Appuyez sur Esc lorsque vous avez terminé.</li>
+      <li>La commande A permet d'insérer du texte à la fin d'une ligne. Positionnez le curseur sur une ligne de texte, puis tapez A. Le curseur est renvoyé à la fin de la ligne, où vous pouvez insérer votre texte. Appuyez sur Esc lorsque vous avez terminé.</li>
+    </ul>
+    <h3>Insertion</h3>
+    <ul>
+      <li>Vous pouvez insérer du texte à la gauche du curseur en tapant i en mode commande.</li>
+      <li>La commande I permet d'insérer du texte en début de ligne. (Elle ramène le curseur en début de ligne, quelle que soit sa position sur la ligne.) Comme pour toutes les commandes décrites dans cette section, vous devez appuyer sur Esc pour repasser en mode commande après avoir entré le texte à insérer.</li>
+    </ul>
+  </div>
