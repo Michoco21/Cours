@@ -86,4 +86,9 @@
       <li>Vous pouvez insérer du texte à la gauche du curseur en tapant i en mode commande.</li>
       <li>La commande I permet d'insérer du texte en début de ligne. (Elle ramène le curseur en début de ligne, quelle que soit sa position sur la ligne.) Comme pour toutes les commandes décrites dans cette section, vous devez appuyer sur Esc pour repasser en mode commande après avoir entré le texte à insérer.</li>
     </ul>
+    <h3>Ouverture de lignes</h3>
+    <ul>
+      <li>Tapez o pour ouvrir une ligne au-dessous de la position courante du curseur, puis insérez, au besoin, quelques lignes de texte. Appuyez sur Esc lorsque vous avez terminé.</li>
+      <li>Tapez o pour ouvrir une ligne au-dessous de la position courante du curseur, puis insérez, au besoin, quelques lignes de texte. Appuyez sur Esc lorsque vous avez terminé.</li>
+    </ul>
   </div>
